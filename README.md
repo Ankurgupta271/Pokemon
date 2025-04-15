@@ -2,7 +2,9 @@
 
 Welcome to **PixelBattle**, a charming turn-based battle game inspired by classic Pokémon-style gameplay. Build your squad, battle wild creatures, and level up in this pixelated world of strategy and fun!
 
-![Gameplay Screenshot](1.png)(2.png)(3.png)
+![Gameplay Screenshot](1.png)
+![Gameplay Screenshot](2.png)
+![Gameplay Screenshot](3.png)
 
 ---
 
